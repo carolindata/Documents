@@ -1,8 +1,10 @@
 # Presentación tendencias laborales en la era digital 
 
-## Fuentes y documentos de interés:
+## Fuentes y enlaces de interés:
 🔴https://www.weforum.org/reports/the-future-of-jobs-report-2023
+
 🔴https://datanerd.tech/
+
 🔴https://www.youtube.com/@carolina.data.analyst
 
 
